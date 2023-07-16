@@ -13,3 +13,4 @@ driver.get("https://www.github.com")
 print(driver.title)
 driver.maximize_window()
 driver.close()
+
